@@ -1,0 +1,9 @@
+# Fullstack Capstone Project
+
+# Overview
+
+An intranet frontend capable of registering new users and tracking their progress as they complete projects.
+
+Experience is awarded upon completion of an assignment.
+
+Levels are then gained as users accumulate experience. Each level is slightly more difficult to reach than the last!
